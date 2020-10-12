@@ -10,5 +10,7 @@ int main() {
             printf("\n");
         }
     }
+    printf("\n\nPress enter to exit");
+    scanf("%c");
     return 0;
 }
